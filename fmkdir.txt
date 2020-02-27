@@ -1,0 +1,3 @@
+The mkdir command is is used to create new directories.
+A directory, referred to as a folder in some operating systems.
+Be aware that this will create the directory within the current working directory.
